@@ -13,14 +13,6 @@ Some Features:
 -   ⭐ At the end Deployment like a pro for FREE!
 -   ⏳ And much more!
 
-### Setup .env file
-
-```js
-PORT=...
-MONGO_DB_URI=...
-JWT_SECRET=...
-NODE_ENV=...
-```
 
 ### Build the app
 
